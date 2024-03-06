@@ -1,2 +1,3 @@
 # gen_clangd_compile_commands
-python script to generate compile_commands.json for clangd to do background index.
+Python script to generate compile_commands.json for clangd to do background index.
+Copy from Zhihu: <https://zhuanlan.zhihu.com/p/678584767>.
